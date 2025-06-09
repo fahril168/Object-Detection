@@ -4,7 +4,7 @@ import requests
 import time
 import os
 from dotenv import load_dotenv
-
+#halo
 load_dotenv()  # Load from .env
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
